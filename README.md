@@ -1,4 +1,4 @@
-from datetime import datetime, timedelta
+from datetime import datetime, timedelt
 
 def tomorrow_date():
     tomorrow = datetime.now() + timedelta(days=1)
